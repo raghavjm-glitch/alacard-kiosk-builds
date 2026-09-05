@@ -1,7 +1,7 @@
 {
-  "version": "20260903-1627",
-  "source": "alacard-kiosk-20260903-1627.zip",
-  "sha256": "6be2388bc072ce368ff82edd96995c1612893f516f0c146b35121b032c4a26d3",
-  "note": "Canon driver setup automated for both printers.",
-  "published": "2026-09-03T10:58:49Z"
+  "version": "20260905-1320",
+  "source": "alacard-kiosk-20260905-1320.zip",
+  "sha256": "7f090cc7bf7cb40aa0893e701354dbba390b96913e0547f0b275932021494136",
+  "note": "Numbered photo boxes, printer found automatically, updater can update itself.",
+  "published": "2026-09-05T07:50:36Z"
 }
