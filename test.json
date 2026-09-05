@@ -1,7 +1,9 @@
 {
-  "version": "20260905-1320",
-  "source": "alacard-kiosk-20260905-1320.zip",
-  "sha256": "7f090cc7bf7cb40aa0893e701354dbba390b96913e0547f0b275932021494136",
-  "note": "Numbered photo boxes, printer found automatically, updater can update itself.",
-  "published": "2026-09-05T07:50:36Z"
+  "version": "20260905-1445",
+  "file": "",
+  "sha256": "",
+  "source": "alacard-kiosk-20260905-1445.zip",
+  "source_sha256": "c0ceff09748f25419d716357f91cc8e737f91412edfd2bb7013433d2bd382dbc",
+  "note": "Printer settings applied automatically, Drawer 1 instead of a tray that does not exist, installer stops asking questions nobody can answer.",
+  "published": "2026-09-05T09:15:23Z"
 }
