@@ -30,17 +30,34 @@ die()  { printf '\033[31m✗ %s\033[0m\n' "$*"; exit 1; }
 bold "Alacard kiosk — upgrading this machine"
 echo "  channel: $CHANNEL"
 
-# --- the parts that must already be here ------------------------------------
+# --- the one thing that must already be here --------------------------------
 #
-# Checked first, because everything below is wasted if the Canon driver is
-# missing — and that is the one thing this cannot install for you.
+# Not a printer already set up — a downloaded driver, or a printer already set
+# up. This used to demand the printer itself exist in CUPS before it would even
+# start, which made it impossible to ever bootstrap a genuinely fresh machine:
+# the driver install and the printer it creates both happen later in this very
+# script, in step 5. That was written before that step existed, and never
+# revisited once it did.
+#
+# What genuinely cannot be automated is fetching the .deb — Canon blocks a
+# direct download, so a person has to visit the page and download it by hand.
+# Once that file is sitting in Downloads, everything from there on is this
+# script's job, not the person's.
 bold "1. Checking what this machine already has"
 command -v lpstat >/dev/null 2>&1 || die "CUPS is not installed on this machine"
 PRINTERS="$(lpstat -p 2>/dev/null | awk '{print $2}')"
-[ -n "$PRINTERS" ] || die "CUPS knows about no printers. Install the driver first."
-echo "$PRINTERS" | sed 's/^/    /'
-COUNT="$(echo "$PRINTERS" | wc -l | tr -d ' ')"
-ok "$COUNT printer(s) — $([ "$COUNT" -gt 1 ] && echo "dual kiosk" || echo "single-printer kiosk")"
+CARD_DEB="$(find "$HOME/Downloads" -name 'cnrdrvcups-ufr2-*amd64.deb' 2>/dev/null | head -1)"
+FRAME_DEB="$(find "$HOME/Downloads" -name 'cnijfilter*amd64.deb' 2>/dev/null | head -1)"
+if [ -z "$PRINTERS" ] && [ -z "$CARD_DEB" ] && [ -z "$FRAME_DEB" ]; then
+  die "No printer set up yet, and no downloaded Canon driver in ~/Downloads. Get the UFR II driver (not the LT one) from Canon's site first."
+fi
+if [ -n "$PRINTERS" ]; then
+  echo "$PRINTERS" | sed 's/^/    /'
+  COUNT="$(echo "$PRINTERS" | wc -l | tr -d ' ')"
+  ok "$COUNT printer(s) already set up"
+else
+  ok "no printer yet, but a downloaded driver is waiting — step 5 installs it"
+fi
 
 # --- fetch -------------------------------------------------------------------
 bold "2. Fetching the current build"
