@@ -1,9 +1,9 @@
 {
-  "version": "20260907-1302",
+  "version": "20260907-1323",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260907-1302.zip",
-  "source_sha256": "f63afc869c3a02ba9e23605800da1f162c79c63497394cd9ec62cd3ec8a60d8f",
-  "note": "From-scratch rehearsal build: photo-upload crash fixed, kiosk asks what it sells at setup, print-at-kiosk, kiosk health file, phone number box no longer shows a fake number.",
-  "published": "2026-09-07T07:32:27Z"
+  "source": "alacard-kiosk-20260907-1323.zip",
+  "source_sha256": "fdc99372050b7ff038f75ab3a1937ff485600ee4fff24cfe7cce5fe0abc71cc6",
+  "note": "The from-scratch rehearsal build, with the crash fixed, print-at-kiosk, kiosk health, and a better screensaver.",
+  "published": "2026-09-07T07:53:19Z"
 }
