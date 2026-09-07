@@ -1,9 +1,9 @@
 {
-  "version": "20260905-1445",
+  "version": "20260907-1302",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260905-1445.zip",
-  "source_sha256": "c0ceff09748f25419d716357f91cc8e737f91412edfd2bb7013433d2bd382dbc",
-  "note": "Printer settings applied automatically, Drawer 1 instead of a tray that does not exist, installer stops asking questions nobody can answer.",
-  "published": "2026-09-05T09:15:23Z"
+  "source": "alacard-kiosk-20260907-1302.zip",
+  "source_sha256": "f63afc869c3a02ba9e23605800da1f162c79c63497394cd9ec62cd3ec8a60d8f",
+  "note": "From-scratch rehearsal build: photo-upload crash fixed, kiosk asks what it sells at setup, print-at-kiosk, kiosk health file, phone number box no longer shows a fake number.",
+  "published": "2026-09-07T07:32:27Z"
 }
