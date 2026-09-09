@@ -1,9 +1,9 @@
 {
-  "version": "20260909-1522",
+  "version": "20260909-2012",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260909-1522.zip",
-  "source_sha256": "2e89a27eb17f74424c336c802f2257ea4e5d2c55e6e6b7b1d8956104cbe9a147",
-  "note": "Honest print ending, categories retried while wifi comes up, saved cards never fail silently, plain offline message, no second sign-in, clear-queue reports what it removed",
-  "published": "2026-09-09T09:52:27Z"
+  "source": "alacard-kiosk-20260909-2012.zip",
+  "source_sha256": "be7ffec8eb4ebc3e6e60087f6bcb5e6d8aab119a78721a8152d8c02adf291cea",
+  "note": "Collected cards book a sale and use the normal journey, slow print service no longer reported as failure, blind prints end on time, logo refreshes the shelf, frames called frames, one question not three",
+  "published": "2026-09-09T14:42:16Z"
 }
