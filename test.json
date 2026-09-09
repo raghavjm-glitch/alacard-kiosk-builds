@@ -1,9 +1,9 @@
 {
-  "version": "20260909-1506",
+  "version": "20260909-1522",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260909-1506.zip",
-  "source_sha256": "65cbb4c6de822645b12829e5e0c7641222242603cb1dafa17774740674898ae3",
-  "note": "Cards print again, plain-words offline message, no second sign-in, clear-queue reports what it removed, saved cards never fail silently",
-  "published": "2026-09-09T09:36:56Z"
+  "source": "alacard-kiosk-20260909-1522.zip",
+  "source_sha256": "2e89a27eb17f74424c336c802f2257ea4e5d2c55e6e6b7b1d8956104cbe9a147",
+  "note": "Honest print ending, categories retried while wifi comes up, saved cards never fail silently, plain offline message, no second sign-in, clear-queue reports what it removed",
+  "published": "2026-09-09T09:52:27Z"
 }
