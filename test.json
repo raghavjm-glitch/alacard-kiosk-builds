@@ -1,9 +1,9 @@
 {
-  "version": "20260909-0133",
+  "version": "20260909-1505",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260909-0132.zip",
-  "source_sha256": "1044727dd1dbf3fd3f3f11677d75d5b90b927bfb63cb331976efb2833fa9af46",
-  "note": "Jam and queue honesty, printer status on screen, sale failures now say why, cards-only hides frames, centred barcode and bigger shop logo",
-  "published": "2026-09-08T20:03:03Z"
+  "source": "alacard-kiosk-20260909-1505.zip",
+  "source_sha256": "51a796057b6ee74cbd23ac34401fbfa15317771a0d440c993d0f9307f98b2d1d",
+  "note": "Cards print again (spool permissions + refusal no longer read as success), plain-words offline message, no second sign-in, clear-queue says what it removed, printer found on the cable by itself",
+  "published": "2026-09-09T09:35:34Z"
 }
