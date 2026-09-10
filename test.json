@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1739",
+  "version": "20260910-1744",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1739.zip",
-  "source_sha256": "e1c3ad4874d780d0bc9f6751c33e7e10b57da2aea01a2d14c84692b97ee2aba5",
-  "note": "Refuses to sell when the printer is unplugged, and says why immediately",
-  "published": "2026-09-10T12:09:19Z"
+  "source": "alacard-kiosk-20260910-1744.zip",
+  "source_sha256": "e85b468ff80eb065bfe53b6352c17c32a68055a1d8525e60f11f0dc4c2fc0d94",
+  "note": "Records the order id of a failed sale so it can be found in the server log",
+  "published": "2026-09-10T12:14:34Z"
 }
