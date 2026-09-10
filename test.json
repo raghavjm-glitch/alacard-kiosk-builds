@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1629",
+  "version": "20260910-1700",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1629.zip",
-  "source_sha256": "cd54476fdaefe5f31d5431542ed67d143c390aa70a746a833efb1b02ce02dccc",
-  "note": "Fixes the screensaver crash introduced by the shelf reload",
-  "published": "2026-09-10T10:59:03Z"
+  "source": "alacard-kiosk-20260910-1659.zip",
+  "source_sha256": "0335061740d5cbfd480a31369a4f17e80de098bd1628a54d013f6c14ce39b590",
+  "note": "Cards-only kiosks no longer warned about the photo printer; screensaver crash fixed",
+  "published": "2026-09-10T11:30:01Z"
 }
