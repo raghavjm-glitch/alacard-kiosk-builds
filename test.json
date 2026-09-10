@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1354",
+  "version": "20260910-1629",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1354.zip",
-  "source_sha256": "e3b17e5705614e24c3b61015630087eeb0b8292e60d05108c4497b8102d1ccb6",
-  "note": "Live QR on the card back, shelf reloads when idle so switched-off cards disappear, sheet counter proves a card printed",
-  "published": "2026-09-10T08:24:30Z"
+  "source": "alacard-kiosk-20260910-1629.zip",
+  "source_sha256": "cd54476fdaefe5f31d5431542ed67d143c390aa70a746a833efb1b02ce02dccc",
+  "note": "Fixes the screensaver crash introduced by the shelf reload",
+  "published": "2026-09-10T10:59:03Z"
 }
