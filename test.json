@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1700",
+  "version": "20260910-1739",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1659.zip",
-  "source_sha256": "0335061740d5cbfd480a31369a4f17e80de098bd1628a54d013f6c14ce39b590",
-  "note": "Cards-only kiosks no longer warned about the photo printer; screensaver crash fixed",
-  "published": "2026-09-10T11:30:01Z"
+  "source": "alacard-kiosk-20260910-1739.zip",
+  "source_sha256": "e1c3ad4874d780d0bc9f6751c33e7e10b57da2aea01a2d14c84692b97ee2aba5",
+  "note": "Refuses to sell when the printer is unplugged, and says why immediately",
+  "published": "2026-09-10T12:09:19Z"
 }
