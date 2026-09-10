@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1744",
+  "version": "20260910-1755",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1744.zip",
-  "source_sha256": "e85b468ff80eb065bfe53b6352c17c32a68055a1d8525e60f11f0dc4c2fc0d94",
-  "note": "Records the order id of a failed sale so it can be found in the server log",
-  "published": "2026-09-10T12:14:34Z"
+  "source": "alacard-kiosk-20260910-1755.zip",
+  "source_sha256": "2d6f444edb566ef09bf8c54de6e0b4f402c6c296229d8d58cfffd18db16ea8bc",
+  "note": "Fixes the print service appearing to stop responding during a print",
+  "published": "2026-09-10T12:25:49Z"
 }
