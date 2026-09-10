@@ -1,9 +1,9 @@
 {
-  "version": "20260909-2012",
+  "version": "20260910-1338",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260909-2012.zip",
-  "source_sha256": "be7ffec8eb4ebc3e6e60087f6bcb5e6d8aab119a78721a8152d8c02adf291cea",
-  "note": "Collected cards book a sale and use the normal journey, slow print service no longer reported as failure, blind prints end on time, logo refreshes the shelf, frames called frames, one question not three",
-  "published": "2026-09-09T14:42:16Z"
+  "source": "alacard-kiosk-20260910-1338.zip",
+  "source_sha256": "ab9ffa05a6c134b53b72a9f13cd17856a0d917b5cf94ff7e9fdc7bdd561f3ed0",
+  "note": "The printer's sheet counter decides whether a card came out; a switched-off USB printer is reported as such; a jam is seen during a print; collected cards book a sale",
+  "published": "2026-09-10T08:08:21Z"
 }
