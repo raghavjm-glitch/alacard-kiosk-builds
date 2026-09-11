@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1701",
+  "version": "20260911-1703",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1701.zip",
-  "source_sha256": "b165d84e1899a3f47aff5ea88ca3ef296d7e695acd68aad5d0d4e7ecf5903bd8",
-  "note": "Sales book (session kept), counter no longer misreports a printed card, ADD PHOTO never printed",
-  "published": "2026-09-11T11:31:26Z"
+  "source": "alacard-kiosk-20260911-1703.zip",
+  "source_sha256": "a01028f4337364d21398947437aab05b9d3e1cf7a291057f1e45d22923e7daa2",
+  "note": "Sales book, counter waits for the sheet, jam during the wait wins, ADD PHOTO never printed",
+  "published": "2026-09-11T11:33:07Z"
 }
