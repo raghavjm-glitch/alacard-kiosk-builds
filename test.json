@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1409",
+  "version": "20260911-1514",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1409.zip",
-  "source_sha256": "359438feba7edb2615b93c6f3c0330a2f0d58fd0bc54fa61c1b758b80b1fbe0e",
-  "note": "Ubuntu keyboard no longer appears over the card",
-  "published": "2026-09-11T08:39:30Z"
+  "source": "alacard-kiosk-20260911-1514.zip",
+  "source_sha256": "f6b8b55b00251cd011d2abc75e0e5b013b0bd6a095704d371e82903b5a25ed28",
+  "note": "Sales book: the sign-in session is now kept and sent with every request",
+  "published": "2026-09-11T09:44:17Z"
 }
