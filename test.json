@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1733",
+  "version": "20260911-1755",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1733.zip",
-  "source_sha256": "fb0d1e0c97d9d1409752db4089fe33b08e09293c5c5dfa0ef9a3c9a4d3407a5f",
-  "note": "Counter given a full minute so a printing card is never called a failure",
-  "published": "2026-09-11T12:03:59Z"
+  "source": "alacard-kiosk-20260911-1755.zip",
+  "source_sha256": "7f3445f7061f86c8eaa8bba219cd7f6af89630221698eeacc784be5cb9f9ec3c",
+  "note": "A sleeping printer no longer makes the app think the print service is dead",
+  "published": "2026-09-11T12:25:24Z"
 }
