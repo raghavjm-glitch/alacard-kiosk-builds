@@ -1,9 +1,9 @@
 {
-  "version": "20260910-1755",
+  "version": "20260911-1400",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260910-1755.zip",
-  "source_sha256": "2d6f444edb566ef09bf8c54de6e0b4f402c6c296229d8d58cfffd18db16ea8bc",
-  "note": "Fixes the print service appearing to stop responding during a print",
-  "published": "2026-09-10T12:25:49Z"
+  "source": "alacard-kiosk-20260911-1400.zip",
+  "source_sha256": "14115fab31897d1f3f3fc44e3d3619ce8f211ad3e2304e45b0b8d243de542644",
+  "note": "Queue cleared on start and after a failed print; failed screen offers no refund levers; toner in maintenance; bigger keys; Ubuntu banners off",
+  "published": "2026-09-11T08:30:06Z"
 }
