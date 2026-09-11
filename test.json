@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1514",
+  "version": "20260911-1701",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1514.zip",
-  "source_sha256": "f6b8b55b00251cd011d2abc75e0e5b013b0bd6a095704d371e82903b5a25ed28",
-  "note": "Sales book: the sign-in session is now kept and sent with every request",
-  "published": "2026-09-11T09:44:17Z"
+  "source": "alacard-kiosk-20260911-1701.zip",
+  "source_sha256": "b165d84e1899a3f47aff5ea88ca3ef296d7e695acd68aad5d0d4e7ecf5903bd8",
+  "note": "Sales book (session kept), counter no longer misreports a printed card, ADD PHOTO never printed",
+  "published": "2026-09-11T11:31:26Z"
 }
