@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1400",
+  "version": "20260911-1409",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1400.zip",
-  "source_sha256": "14115fab31897d1f3f3fc44e3d3619ce8f211ad3e2304e45b0b8d243de542644",
-  "note": "Queue cleared on start and after a failed print; failed screen offers no refund levers; toner in maintenance; bigger keys; Ubuntu banners off",
-  "published": "2026-09-11T08:30:06Z"
+  "source": "alacard-kiosk-20260911-1409.zip",
+  "source_sha256": "359438feba7edb2615b93c6f3c0330a2f0d58fd0bc54fa61c1b758b80b1fbe0e",
+  "note": "Ubuntu keyboard no longer appears over the card",
+  "published": "2026-09-11T08:39:30Z"
 }
