@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1708",
+  "version": "20260911-1733",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1708.zip",
-  "source_sha256": "79f7ff801b99d3d8e3fec2312402b7c06fe2fd3ff99472062fb9cc17921adfe3",
-  "note": "Sale follows the sheet: booked only once paper came out, after a jam once cleared, never on a failure",
-  "published": "2026-09-11T11:38:32Z"
+  "source": "alacard-kiosk-20260911-1733.zip",
+  "source_sha256": "fb0d1e0c97d9d1409752db4089fe33b08e09293c5c5dfa0ef9a3c9a4d3407a5f",
+  "note": "Counter given a full minute so a printing card is never called a failure",
+  "published": "2026-09-11T12:03:59Z"
 }
