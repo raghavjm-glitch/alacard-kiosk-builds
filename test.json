@@ -1,9 +1,9 @@
 {
-  "version": "20260912-2248",
+  "version": "20260912-2326",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260912-2247.zip",
-  "source_sha256": "bf342a652aebca9d9f32a105ec1b9d6278dec6bbc2fb6894174224c907072780",
-  "note": "An empty photo slot prints white instead of black",
-  "published": "2026-09-12T17:18:01Z"
+  "source": "alacard-kiosk-20260912-2326.zip",
+  "source_sha256": "ba326d956a620f7479cb02fc288016d0975d96c0db6eddbe6c0ceb45e6cdac98",
+  "note": "Empty photo slot prints white; the printer wire gets its own connection on a fresh kiosk",
+  "published": "2026-09-12T17:56:37Z"
 }
