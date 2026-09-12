@@ -1,9 +1,9 @@
 {
-  "version": "20260911-1755",
+  "version": "20260912-2248",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260911-1755.zip",
-  "source_sha256": "7f3445f7061f86c8eaa8bba219cd7f6af89630221698eeacc784be5cb9f9ec3c",
-  "note": "A sleeping printer no longer makes the app think the print service is dead",
-  "published": "2026-09-11T12:25:24Z"
+  "source": "alacard-kiosk-20260912-2247.zip",
+  "source_sha256": "bf342a652aebca9d9f32a105ec1b9d6278dec6bbc2fb6894174224c907072780",
+  "note": "An empty photo slot prints white instead of black",
+  "published": "2026-09-12T17:18:01Z"
 }
