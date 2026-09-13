@@ -1,9 +1,9 @@
 {
-  "version": "20260914-0107",
+  "version": "20260914-0123",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-0107.zip",
-  "source_sha256": "abae7d51ce9e9864ac6d980b817c8e1b594f8f1e74c6a9e91855e58b31de0d00",
-  "note": "a photo changed on the phone now reaches the card",
-  "published": "2026-09-13T19:37:40Z"
+  "source": "alacard-kiosk-20260914-0123.zip",
+  "source_sha256": "301da535d0aa109ed0b03b59a694aa9ba46a0c2de075bf5e112f3ecf376f53c1",
+  "note": "the sale sends the word the backend actually knows",
+  "published": "2026-09-13T19:53:12Z"
 }
