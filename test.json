@@ -1,9 +1,9 @@
 {
-  "version": "20260913-2038",
+  "version": "20260913-2053",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260913-2038.zip",
-  "source_sha256": "8b78f3b6312b8231d4c058ffa9acf989da63c83b7b582e4fd040b6dfbc448cbd",
-  "note": "Empty photo slots print the template artwork, never the ADD PHOTO badge",
-  "published": "2026-09-13T15:08:59Z"
+  "source": "alacard-kiosk-20260913-2053.zip",
+  "source_sha256": "aa3aa148b6fe3a70441284bc4cfe4758c8e0bbd033471212e80535784a457f27",
+  "note": "Replacing a photo works again — the kiosk asks for a new upload code, and the phone shows the send button",
+  "published": "2026-09-13T15:23:49Z"
 }
