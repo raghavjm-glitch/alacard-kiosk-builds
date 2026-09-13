@@ -1,9 +1,9 @@
 {
-  "version": "20260912-2326",
+  "version": "20260913-2038",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260912-2326.zip",
-  "source_sha256": "ba326d956a620f7479cb02fc288016d0975d96c0db6eddbe6c0ceb45e6cdac98",
-  "note": "Empty photo slot prints white; the printer wire gets its own connection on a fresh kiosk",
-  "published": "2026-09-12T17:56:37Z"
+  "source": "alacard-kiosk-20260913-2038.zip",
+  "source_sha256": "8b78f3b6312b8231d4c058ffa9acf989da63c83b7b582e4fd040b6dfbc448cbd",
+  "note": "Empty photo slots print the template artwork, never the ADD PHOTO badge",
+  "published": "2026-09-13T15:08:59Z"
 }
