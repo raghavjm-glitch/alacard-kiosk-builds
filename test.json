@@ -1,9 +1,9 @@
 {
-  "version": "20260914-1632",
+  "version": "20260914-1726",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-1632.zip",
-  "source_sha256": "d9796d9abc0e408fbdc4eae60624c98c0470e30e58f2bad1b8a43e946ed2f056",
-  "note": "a saved card opens like a card before you buy it",
-  "published": "2026-09-14T11:02:57Z"
+  "source": "alacard-kiosk-20260914-1726.zip",
+  "source_sha256": "4746cefe03ba13600fc40ebb69d161f814b30fa4bde3ec3ba2dd78d582e9c475",
+  "note": "a cleared jam finishes the screen; no faint square around a photo",
+  "published": "2026-09-14T11:56:09Z"
 }
