@@ -1,9 +1,9 @@
 {
-  "version": "20260914-1429",
+  "version": "20260914-1558",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-1429.zip",
-  "source_sha256": "935583687a1c0ab1bdd053d83dfb8641f976dfa249afd2534cd3c4b0245dbc27",
-  "note": "no more Software Updater dialog, and the sale sends a print id",
-  "published": "2026-09-14T08:59:26Z"
+  "source": "alacard-kiosk-20260914-1558.zip",
+  "source_sha256": "0b2c7b7eae4de124c696c85382991e53b835abda98c93054ef230569d8332fda",
+  "note": "the kiosk looks after its own printer connection",
+  "published": "2026-09-14T10:28:12Z"
 }
