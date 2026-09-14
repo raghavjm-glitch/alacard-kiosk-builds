@@ -1,9 +1,9 @@
 {
-  "version": "20260914-0123",
+  "version": "20260914-1406",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-0123.zip",
-  "source_sha256": "301da535d0aa109ed0b03b59a694aa9ba46a0c2de075bf5e112f3ecf376f53c1",
-  "note": "the sale sends the word the backend actually knows",
-  "published": "2026-09-13T19:53:12Z"
+  "source": "alacard-kiosk-20260914-1406.zip",
+  "source_sha256": "7f85f9b5f63535b7042ba9a590db3f9b57d6e829c90cc4a5ec1a0dfcdb8a4182",
+  "note": "the sale sends a print id, not the catalogue card",
+  "published": "2026-09-14T08:36:11Z"
 }
