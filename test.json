@@ -1,9 +1,9 @@
 {
-  "version": "20260914-1407",
+  "version": "20260914-1429",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-1407.zip",
-  "source_sha256": "57ef1fba04bdbee2c8fbfa0137704103538b2aa0a1292c4b613c52db804932d6",
-  "note": "the sale sends a print id, not the catalogue card",
-  "published": "2026-09-14T08:37:21Z"
+  "source": "alacard-kiosk-20260914-1429.zip",
+  "source_sha256": "935583687a1c0ab1bdd053d83dfb8641f976dfa249afd2534cd3c4b0245dbc27",
+  "note": "no more Software Updater dialog, and the sale sends a print id",
+  "published": "2026-09-14T08:59:26Z"
 }
