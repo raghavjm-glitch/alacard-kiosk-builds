@@ -1,9 +1,9 @@
 {
-  "version": "20260914-1558",
+  "version": "20260914-1609",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-1558.zip",
-  "source_sha256": "0b2c7b7eae4de124c696c85382991e53b835abda98c93054ef230569d8332fda",
-  "note": "the kiosk looks after its own printer connection",
-  "published": "2026-09-14T10:28:12Z"
+  "source": "alacard-kiosk-20260914-1609.zip",
+  "source_sha256": "01bcbf61014d0498952e6dfbc304ce04bad779958342db133a65ac61ba4ef977",
+  "note": "cold start: shelf fills itself, and an absent frame printer is not called ready",
+  "published": "2026-09-14T10:39:04Z"
 }
