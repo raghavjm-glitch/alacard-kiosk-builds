@@ -1,9 +1,9 @@
 {
-  "version": "20260914-1609",
+  "version": "20260914-1632",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-1609.zip",
-  "source_sha256": "01bcbf61014d0498952e6dfbc304ce04bad779958342db133a65ac61ba4ef977",
-  "note": "cold start: shelf fills itself, and an absent frame printer is not called ready",
-  "published": "2026-09-14T10:39:04Z"
+  "source": "alacard-kiosk-20260914-1632.zip",
+  "source_sha256": "d9796d9abc0e408fbdc4eae60624c98c0470e30e58f2bad1b8a43e946ed2f056",
+  "note": "a saved card opens like a card before you buy it",
+  "published": "2026-09-14T11:02:57Z"
 }
