@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1608",
+  "version": "20260915-1611",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1608.zip",
-  "source_sha256": "c981b21d7e9db6cc6b87c3babcc46c8056dbabeb2b32d83b702f8ac97e8b6e85",
-  "note": "an empty added text box never comes back through undo",
-  "published": "2026-09-15T10:38:04Z"
+  "source": "alacard-kiosk-20260915-1611.zip",
+  "source_sha256": "628941bf17e39985ac500ebe649ba7456f778133d4111b1abf932305b2dea862",
+  "note": "no orphaned empty text box when tapping text on the other page",
+  "published": "2026-09-15T10:41:03Z"
 }
