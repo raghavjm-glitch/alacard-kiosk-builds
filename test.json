@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1434",
+  "version": "20260915-1439",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1434.zip",
-  "source_sha256": "0dd428308d5b4bebf3de5c391e0ba241a70d870bccf227d502edef940f8cb178",
-  "note": "a collected card asks how it went, like every other sale",
-  "published": "2026-09-15T09:04:56Z"
+  "source": "alacard-kiosk-20260915-1439.zip",
+  "source_sha256": "3e283a87353ab4c694f2fec59fc9f917f71f66edda9ce8d11b27a7df7709955a",
+  "note": "a collected card is stamped as a Print at Kiosk sale",
+  "published": "2026-09-15T09:09:07Z"
 }
