@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1433",
+  "version": "20260915-1434",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1433.zip",
-  "source_sha256": "6263022ac77c17ad41220a25a4b5d77860603b3878d2362592cf9011bd81947c",
-  "note": "Print at Kiosk: progress sheet its normal size, card centred",
-  "published": "2026-09-15T09:03:07Z"
+  "source": "alacard-kiosk-20260915-1434.zip",
+  "source_sha256": "0dd428308d5b4bebf3de5c391e0ba241a70d870bccf227d502edef940f8cb178",
+  "note": "a collected card asks how it went, like every other sale",
+  "published": "2026-09-15T09:04:56Z"
 }
