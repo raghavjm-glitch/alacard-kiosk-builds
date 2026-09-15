@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1640",
+  "version": "20260915-1644",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1640.zip",
-  "source_sha256": "ab6fb40c293c8a189186f2a33141d05ab5dfcb311ec02e77f2fc0a0bd2b511ad",
-  "note": "font list is quick and scrolls; no render while a text box is open",
-  "published": "2026-09-15T11:10:34Z"
+  "source": "alacard-kiosk-20260915-1644.zip",
+  "source_sha256": "31a9422ed989c970a200cc6cb0228037c4a0bea13f1c913bbdfe155a5da9aa96",
+  "note": "the printer wire is set up by the script, for the shop launch",
+  "published": "2026-09-15T11:14:46Z"
 }
