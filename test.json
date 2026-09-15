@@ -1,9 +1,9 @@
 {
-  "version": "20260914-2323",
+  "version": "20260915-1242",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260914-2323.zip",
-  "source_sha256": "98b43bef3bf56e8832adec5aa94c80b335edaadfbc20776a12eaa87329b8854b",
-  "note": "the sale books — proven against the backend tonight",
-  "published": "2026-09-14T17:53:50Z"
+  "source": "alacard-kiosk-20260915-1242.zip",
+  "source_sha256": "3ddfec34efb83e6a40a556868c90178787f670f9db7a43096469d9814cb9091a",
+  "note": "BUY NOW refuses a jammed or empty printer, after waking it to check",
+  "published": "2026-09-15T07:12:19Z"
 }
