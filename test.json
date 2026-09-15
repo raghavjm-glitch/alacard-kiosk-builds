@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1359",
+  "version": "20260915-1406",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1359.zip",
-  "source_sha256": "c39e6bf1042b5dbffba3faaeb0f589eae3b0b8e14535de9abc35e31767e6982c",
-  "note": "no report button — the shop is right there",
-  "published": "2026-09-15T08:29:51Z"
+  "source": "alacard-kiosk-20260915-1406.zip",
+  "source_sha256": "50a70b7e00134e840e03821c2d2ef0d453447339888bfe94f7a2bc2243e07909",
+  "note": "the screensaver stays until a person touches the screen",
+  "published": "2026-09-15T08:36:40Z"
 }
