@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1253",
+  "version": "20260915-1256",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1253.zip",
-  "source_sha256": "c25879f9a381a366fdc2d218e93d859aaf427f1656a0bb3fd768699d4a25e7cb",
-  "note": "a power cut no longer loses the customer's card",
-  "published": "2026-09-15T07:23:03Z"
+  "source": "alacard-kiosk-20260915-1256.zip",
+  "source_sha256": "e45a11b1472d4500ba1c69ea07c266ad19c98bc0799269fd81e865234ac11ab6",
+  "note": "the occasion banner is back in the header",
+  "published": "2026-09-15T07:26:47Z"
 }
