@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1406",
+  "version": "20260915-1433",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1406.zip",
-  "source_sha256": "50a70b7e00134e840e03821c2d2ef0d453447339888bfe94f7a2bc2243e07909",
-  "note": "the screensaver stays until a person touches the screen",
-  "published": "2026-09-15T08:36:40Z"
+  "source": "alacard-kiosk-20260915-1433.zip",
+  "source_sha256": "6263022ac77c17ad41220a25a4b5d77860603b3878d2362592cf9011bd81947c",
+  "note": "Print at Kiosk: progress sheet its normal size, card centred",
+  "published": "2026-09-15T09:03:07Z"
 }
