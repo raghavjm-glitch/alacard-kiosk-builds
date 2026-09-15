@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1256",
+  "version": "20260915-1310",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1256.zip",
-  "source_sha256": "e45a11b1472d4500ba1c69ea07c266ad19c98bc0799269fd81e865234ac11ab6",
-  "note": "the occasion banner is back in the header",
-  "published": "2026-09-15T07:26:47Z"
+  "source": "alacard-kiosk-20260915-1310.zip",
+  "source_sha256": "36f502d4c49550355edc6c08328f4df467e06ef92c086beeb7b1dbec1edbf275",
+  "note": "cards open through a wifi wobble; wifi reconnects by itself",
+  "published": "2026-09-15T07:40:39Z"
 }
