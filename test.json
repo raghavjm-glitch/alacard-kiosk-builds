@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1328",
+  "version": "20260915-1329",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1328.zip",
-  "source_sha256": "fe0e8bc33eac91ebb5a08231865821898de61e74168053f001a6639dd56039ef",
-  "note": "a held card now finishes the screen for real; smaller collect preview",
-  "published": "2026-09-15T07:58:05Z"
+  "source": "alacard-kiosk-20260915-1329.zip",
+  "source_sha256": "b76a28d33f3ad7d1a8bee67af32cc14dc6cbdd086d872335f801f0c39135ce2f",
+  "note": "a collected card books its sale the way the old kiosk does",
+  "published": "2026-09-15T07:59:30Z"
 }
