@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1541",
+  "version": "20260915-1602",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1541.zip",
-  "source_sha256": "cc0c676f0999b46a14e33df5c31070078baa5699ab989c82b0002bd31051a4f6",
-  "note": "no heavy render under a finger — dragging stays smooth",
-  "published": "2026-09-15T10:11:15Z"
+  "source": "alacard-kiosk-20260915-1602.zip",
+  "source_sha256": "2ec20c43971d8d0757c75f371f935dab8ddce49ce24055bcc2cb23b6839f67bf",
+  "note": "text colour is a live strip under the toolbar, not a box over the card",
+  "published": "2026-09-15T10:32:41Z"
 }
