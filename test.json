@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1242",
+  "version": "20260915-1253",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1242.zip",
-  "source_sha256": "3ddfec34efb83e6a40a556868c90178787f670f9db7a43096469d9814cb9091a",
-  "note": "BUY NOW refuses a jammed or empty printer, after waking it to check",
-  "published": "2026-09-15T07:12:19Z"
+  "source": "alacard-kiosk-20260915-1253.zip",
+  "source_sha256": "c25879f9a381a366fdc2d218e93d859aaf427f1656a0bb3fd768699d4a25e7cb",
+  "note": "a power cut no longer loses the customer's card",
+  "published": "2026-09-15T07:23:03Z"
 }
