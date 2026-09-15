@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1357",
+  "version": "20260915-1359",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1357.zip",
-  "source_sha256": "198e4385f00cb67cde0f3911c9e6586c13f499955ca61648d8cd44c9d32e0439",
-  "note": "I NEED HELP says what happens next",
-  "published": "2026-09-15T08:27:04Z"
+  "source": "alacard-kiosk-20260915-1359.zip",
+  "source_sha256": "c39e6bf1042b5dbffba3faaeb0f589eae3b0b8e14535de9abc35e31767e6982c",
+  "note": "no report button — the shop is right there",
+  "published": "2026-09-15T08:29:51Z"
 }
