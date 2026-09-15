@@ -1,9 +1,9 @@
 {
-  "version": "20260915-1611",
+  "version": "20260915-1640",
   "file": "",
   "sha256": "",
-  "source": "alacard-kiosk-20260915-1611.zip",
-  "source_sha256": "628941bf17e39985ac500ebe649ba7456f778133d4111b1abf932305b2dea862",
-  "note": "no orphaned empty text box when tapping text on the other page",
-  "published": "2026-09-15T10:41:03Z"
+  "source": "alacard-kiosk-20260915-1640.zip",
+  "source_sha256": "ab6fb40c293c8a189186f2a33141d05ab5dfcb311ec02e77f2fc0a0bd2b511ad",
+  "note": "font list is quick and scrolls; no render while a text box is open",
+  "published": "2026-09-15T11:10:34Z"
 }
